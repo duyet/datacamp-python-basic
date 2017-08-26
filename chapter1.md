@@ -1,11 +1,12 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Giới thiệu cơ bản về Python
+description : Trong chương này chúng ta sẽ được giới thiệu về Python cho Data Analysis, lý do nên sử dụng Python cho Data Analysis. Giới thiệu tổng quan nhất về hệ sinh thái của Python.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:6f76b6229e
-## A really bad movie
+
+## Why learn Python for data analysis
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
